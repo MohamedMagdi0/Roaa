@@ -1,0 +1,28 @@
+{
+  "nav": {
+    "home": "Home",
+    "categories": "Categories",
+    "services": "Services",
+    "language": "عربي"
+  },
+  "footer": {
+    "about": "About Us",
+    "contact": "Contact",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy"
+  },
+  "common": {
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode"
+  },
+  "home": {
+    "welcome": "Welcome to Roaa",
+    "subtitle": "Your trusted partner for quality products and services",
+    "exploreNow": "Explore Now",
+    "featuredCategories": "Featured Categories",
+    "category": "Category",
+    "ourServices": "Our Services",
+    "service": "Service",
+    "learnMore": "Learn More"
+  }
+}

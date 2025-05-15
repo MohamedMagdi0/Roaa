@@ -1,0 +1,28 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "categories": "الفئات",
+    "services": "الخدمات",
+    "language": "English"
+  },
+  "footer": {
+    "about": "من نحن",
+    "contact": "اتصل بنا",
+    "terms": "الشروط والأحكام",
+    "privacy": "سياسة الخصوصية"
+  },
+  "common": {
+    "darkMode": "الوضع الداكن",
+    "lightMode": "الوضع الفاتح"
+  },
+  "home": {
+    "welcome": "مرحباً بكم في رؤى",
+    "subtitle": "شريككم الموثوق للمنتجات والخدمات عالية الجودة",
+    "exploreNow": "استكشف الآن",
+    "featuredCategories": "الفئات المميزة",
+    "category": "الفئة",
+    "ourServices": "خدماتنا",
+    "service": "الخدمة",
+    "learnMore": "اعرف المزيد"
+  }
+}
